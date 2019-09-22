@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+#dialog{
+    position: fixed;
+    top: 0;
+    right: 15px;
+    background-color: #000000;
+    color: #fff;
+    padding: 0 15px;
+}
